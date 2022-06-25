@@ -22,3 +22,11 @@ Then user is taken to enter length, and choose character types of the password.
 ## Display Password
 
 When user made choice of password length and character types, a random password is generated and displayed on the page, with the selected criteria(s).
+
+## URL of my page
+
+https://anniecancode.github.io/Challenge-3/
+
+## Screenshot of my page
+
+![image](https://user-images.githubusercontent.com/99180884/175777672-25c90aec-48c8-488a-8b6e-709306aca361.png)
